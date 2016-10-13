@@ -1,4 +1,3 @@
-# clean-simple-wp-template@@ -0,0 +1,8 @@
 clean-simple-wp-template
 =================
 
@@ -6,5 +5,4 @@ clean-simple-wp-template
 
 Форк <a href="https://github.com/saxap/clean-wp-template">вот этого шаблона</a> под свой лад.
 
-<a href="https://banochkin.com">Banochkin.com</a>
-\ No newline at end of file
+<a href="https://sergeevizh.xyz/">sergeevizh.xyz</a>
